@@ -4,6 +4,8 @@ This repo includes source code and references for the Coding Train collaboration
 
 ## PID Controller - Cart Pole Simulation
 
+![Animation showing cart balancing pole and adjusting sliders for gain](gifs/pid_demo.gif)
+
 ### References
 
 - [Live Stream Archive](https://youtu.be/fWQWX9-8_sA)
